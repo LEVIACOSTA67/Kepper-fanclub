@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Places in the Lost Cities - Keeper of the Lost Cities Fan Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="nav">
+        <a href="./index.html">Home</a>
+        <a href="./characters.html">Characters</a>
+        <a href="./places.html">Places</a>
+    </div>
+    <h1>Places in the Lost Cities</h1>
+    <div class="content">
+        <p>Explore the magical and mysterious locations in the *Keeper of the Lost Cities* series that make the story so unforgettable.</p>
+        <h2>Cool Places</h2>
+        <ol>
+            <li>Everglen: The Vacker family’s sparkling estate.</li>
+            <li>Havenfield: Sophie’s home with lush pastures.</li>
+            <li>Atlantis: The hidden underwater city.</li>
+        </ol>
+        <h2>Location Spotlight</h2>
+        <img src="image1.png" alt="Atlantis scene from Keeper of the Lost Cities" title="Atlantis scene from Keeper of the Lost Cities">
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
