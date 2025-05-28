@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main Characters - Keeper of the Lost Cities Fan Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="nav">
+        <a href="./index.html">Home</a>
+        <a href="./characters.html">Characters</a>
+        <a href="./places.html">Places</a>
+    </div>
+    <h1>Main Characters</h1>
+    <div class="content">
+        <p>Meet the awesome characters who make *Keeper of the Lost Cities* so special with their unique abilities and personalities.</p>
+        <h2>Favorite Characters</h2>
+        <ol>
+            <li>Sophie Foster: The brave heroine with powerful abilities.</li>
+            <li>Keefe Sencen: The funny and loyal empath.</li>
+            <li>Fitz Vacker: The talented telepath and Sophie’s friend.</li>
+        </ol>
+        <h2>Character Gallery</h2>
+        <img src="image2.png" alt="Sophie Foster character art" title="Sophie Foster character art">
+        <img src="image3.png" alt="Keefe Sencen character art" title="Keefe Sencen character art">
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
