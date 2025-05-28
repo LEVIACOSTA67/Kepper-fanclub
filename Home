@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keeper of the Lost Cities Fan Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="nav">
+        <a href="./index.html">Home</a>
+        <a href="./characters.html">Characters</a>
+        <a href="./places.html">Places</a>
+    </div>
+    <h1>Keeper of the Lost Cities Fan Page</h1>
+    <div class="content">
+        <p>Welcome to my fan page for the *Keeper of the Lost Cities* book series by Shannon Messenger! This site is all about the amazing characters, cool places, and my favorite books from this epic fantasy world. Explore and join me in celebrating this awesome series!</p>
+        <p><em>“Sometimes the greatest power comes from showing mercy.”</em> – Sophie Foster, *Keeper of the Lost Cities*</p>
+        <h2>My Favorite Books</h2>
+        <ol>
+            <li>Neverseen</li>
+            <li>Exile</li>
+            <li>Nightfall</li>
+            <li>Legacy</li>
+            <li>Flashback</li>
+        </ol>
+        <h2>Featured Image</h2>
+        <img src="image1.png" alt="Keeper of the Lost Cities book cover" title="Keeper of the Lost Cities book cover">
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
